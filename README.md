@@ -19,7 +19,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
 </p>
----
 
 ## Мои навыки:
 
