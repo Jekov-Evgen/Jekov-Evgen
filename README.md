@@ -17,9 +17,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/PyQt_logo.svg" title="PyQT" alt="PyQT" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
 </p>
 ---
 
