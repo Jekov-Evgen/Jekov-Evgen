@@ -25,7 +25,7 @@
 ## Используемые языки:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jekov-Evgen&layout=compact&theme=radical" alt="Самые используемые языки" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jekov-Evgen&layout=compact&theme=radical&hide=TeX" alt="Самые используемые языки" width="500"/>
 </p>
 
 ## График моей недельной активности:
