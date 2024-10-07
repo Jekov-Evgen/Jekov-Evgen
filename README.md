@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wpf/wpf-original.svg" title="WPF" alt="WPF" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stimulsoft.com%2Fru%2Fonline-store&psig=AOvVaw2eaSvvA3FERTtorb_uIg2V&ust=1728404751165000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj6n8vX_IgDFQAAAAAdAAAAABAE" title="WPF" alt="WPF" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
 </p>
 
 ## Моя активность на GitHub:
