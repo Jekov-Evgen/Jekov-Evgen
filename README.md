@@ -22,12 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jekov-Evgen&show_icons=true&theme=radical" alt="Статистика GitHub" width="500"/>
 </p>
 
-## Используемые языки:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jekov-Evgen&layout=compact&theme=radical&hide=TeX" alt="Самые используемые языки" width="500"/>
-</p>
-
 ## График моей недельной активности:
 
 <p align="center">
