@@ -22,18 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jekov-Evgen&show_icons=true&theme=radical" alt="Статистика GitHub" width="500"/>
 </p>
 
-## График моей недельной активности:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jekov-Evgen&theme=radical" alt="GitHub Streak" width="500"/>
-</p>
-
-## Моя активность по дням недели:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jekov-Evgen&layout=compact&theme=radical" alt="GitHub Weekly Activity" width="500"/>
-</p>
-
 ## Мои навыки:
 
 - **C++**: Сильная база этого языка, умение разрабатывать в парадигме ООП.
