@@ -37,6 +37,10 @@
 - [libAlgort](https://github.com/Jekov-Evgen/libAlgort) - Это библиотека, реализованная на C++, на данный момент ее разработка продолжается.
 - [To-Do-List Django](https://github.com/Jekov-Evgen/Django_TO-DO-LIST) - Простенький веб-сервис на Django для сохранения списка дел.
 
+## Моя статистика на CodeWars:
+
+![CodeWars](https://www.codewars.com/users/jeeeek/badges/large)
+
 ## Где меня найти:
 
 - **TikTok**: [Мой TikTok аккаунт](https://www.tiktok.com/@odessaprog?_t=8psmoCJfLz3&_r=1)
