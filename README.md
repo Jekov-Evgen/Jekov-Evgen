@@ -40,9 +40,3 @@
 ## Моя статистика на CodeWars:
 
 ![CodeWars](https://www.codewars.com/users/jeeeek/badges/large)
-
-## Где меня найти:
-
-- **TikTok**: [Мой TikTok аккаунт](https://www.tiktok.com/@odessaprog?_t=8psmoCJfLz3&_r=1)
-- **GitHub**: [Мой GitHub профиль](https://github.com/Jekov-Evgen)
-
